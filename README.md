@@ -1,5 +1,5 @@
 # ReactProject-shoppingCart
-使用react实现的移动端简易购物车项目
+使用react实现的移动端简易购物车功能
 
 用到的技术：React、FontAwesome字体图标、Context使用、Effect使用、多页面数据传递、动态样式渲染、rem使用、自定义弹窗组件和遮罩层组件等。
 
